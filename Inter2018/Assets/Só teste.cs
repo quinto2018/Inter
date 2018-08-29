@@ -14,6 +14,7 @@ public class Sóteste : MonoBehaviour {
 
 		// This is a test moda foka
 		// ATT 2
+		// BOA CARAI
 
 		
 	}
