@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 14
+<<<<<<< HEAD
   productGUID: 3ecbfda315f25414e98be435beba6dae
+=======
+  productGUID: aa017b37d21d99a4ca80f2661cd54cda
+>>>>>>> 7b77efef8934c5d31608e311fdfeda6106b6dfa2
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
@@ -633,8 +637,13 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
+<<<<<<< HEAD
   cloudProjectId: 3a7676ff-3c2a-4046-8da9-12fbf0b1f544
   projectName: Inter2018
+=======
+  cloudProjectId: 2ed8b911-bdd8-4c94-9c94-c0b956d25351
+  projectName: Inter2018 (1)
+>>>>>>> 7b77efef8934c5d31608e311fdfeda6106b6dfa2
   organizationId: unity_iadna0odn5uacw
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
